@@ -1,3 +1,11 @@
+<template>
+  <Hero />
+  <Title msg="string prop from app" />
+  <Accordian />
+  <Counter />
+  <InputBox />
+</template>
+
 <script lang="ts">
 import { defineComponent } from "vue";
 import Hero from "./components/Hero.vue";
@@ -17,14 +25,6 @@ export default defineComponent({
   },
 });
 </script>
-
-<template>
-  <Hero />
-  <Title msg="string prop from app" />
-  <Accordian />
-  <Counter />
-  <InputBox />
-</template>
 
 <style>
 #app {
