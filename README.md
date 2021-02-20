@@ -22,6 +22,4 @@ tsconfig setup:
 
 [Vue Mapbox](https://soal.github.io/vue-mapbox/)
 
-[chakra](https://vue.chakra-ui.com/getting-started)
-
 [Vue Apollo](https://apollo.vuejs.org/guide/installation.html#vue-cli-plugin)
